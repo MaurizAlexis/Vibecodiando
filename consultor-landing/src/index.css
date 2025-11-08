@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos globales */
+:root { color-scheme: dark; }
+html, body, #root { height: 100%; }
+body { @apply bg-ink text-white antialiased; }
