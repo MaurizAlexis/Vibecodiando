@@ -300,7 +300,7 @@ export default function App() {
         <p className="mb-3 font-medium text-white">Mis redes sociales</p>
         <div className="flex justify-center gap-5">
           <a
-            href="https://wa.me/5491112345678"
+            href="https://wa.me/+5412345678910"
             target="_blank"
             rel="noreferrer"
             className="w-10 h-10 rounded-full bg-green-500 flex items-center justify-center text-black text-xl hover:scale-110 transition-transform"
